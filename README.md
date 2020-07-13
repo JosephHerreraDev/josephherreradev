@@ -1,11 +1,11 @@
 ## Joseph Herrera 
 
 ### Goals:
-- [ ] Learn C#
-  - [x] Understand the basic concepts of programming
-  - [x] Understand OOP
-  - [ ] Database related programming
-  - [ ] Advanced data programming
+- ⬜️ Learn C#
+  - ✅ Understand the basic concepts of programming
+  - ✅ Understand OOP
+  - ⬜️ Database related programming
+  - ⬜️ Advanced data programming
   
 ### Learning the following technologies:
 - C# development 💻
