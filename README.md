@@ -9,11 +9,11 @@
   - ⬜️ Advanced topics 
   
 - ⬜️ Database design (SQL Server)
- - ✅ Basics of database design (concepts)
- - ⬜️ Relationships
- - ⬜️ Keys
- - ⬜️ DB normalization
- - ⬜️ Joins
+  - ✅ Basics of database design (concepts)
+  - ⬜️ Relationships
+  - ⬜️ Keys
+  - ⬜️ DB normalization
+  - ⬜️ Joins
   
 ### Learning the following technologies:
 - C# development 💻
