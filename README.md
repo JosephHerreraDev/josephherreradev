@@ -1,5 +1,11 @@
 ## Joseph Herrera 
 
+### Learning the following technologies:
+- C# development 💻
+- WPF interfaces 👨‍💻
+- SQL server database management 💾
+- Git & Github 
+
 ### Goals:
 - ⬜️ Learn C#
   - ✅ Understand the basic concepts of programming
@@ -10,13 +16,11 @@
   
 - ⬜️ Database design (SQL Server)
   - ✅ Basics of database design (concepts)
-  - ⬜️ Relationships
+  - ✅ Relationships
   - ⬜️ Keys
   - ⬜️ DB normalization
   - ⬜️ Joins
+  - ⬜️ Queries
   
-### Learning the following technologies:
-- C# development 💻
-- WPF interfaces 👨‍💻
-- SQL server database management 💾
+
 
