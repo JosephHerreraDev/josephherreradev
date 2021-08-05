@@ -5,6 +5,7 @@
 - WPF interfaces 👨‍💻
 - SQL server database management 💾
 - Git & Github 
+- HTML & CSS
 
 ### Goals:
 - ✅ Learn C#
