@@ -1,28 +1,20 @@
 Hello, i'm Joseph Herrera let me tell you a bit about myself;
 
-### Learning the following technologies:
-- C# development 💻
-- WPF interfaces 👨‍💻
-- SQL server database management 💾
-- Git & Github 
+### Curently learning:
+- Python (pygame)
+- SQL database management 💾
+- Git
 - HTML & CSS
 - Javascript
 
+### Knowledge on:
+- C# development 💻
+- WPF interfaces 👨‍💻
+
 ### Goals:
-- ✅ Learn C#
-  - ✅ Understand the basic concepts of programming
-  - ✅ Understand OOP
-  - ✅ Database related programming
-  - ✅ Advanced database programming (Entity Framework)
-  - ✅ Advanced topics 
-  
-- ✅ Database design (SQL Server)
-  - ✅ Basics of database design (concepts)
-  - ✅ Relationships
-  - ✅ Keys
-  - ✅ DB normalization
-  - ✅ Joins
-  - ✅ Queries
-  
-
-
+- ☐ Become a web developer
+  - ☐ HTML
+  - ☐ CSS
+  - ☐ Javascript
+  - ☐ Git
+  - ☐ DB Management
