@@ -1,4 +1,4 @@
-## Joseph Herrera 
+Hello, i'm Joseph Herrera let me tell you a bit about myself;
 
 ### Learning the following technologies:
 - C# development 💻
@@ -6,6 +6,7 @@
 - SQL server database management 💾
 - Git & Github 
 - HTML & CSS
+- Javascript
 
 ### Goals:
 - ✅ Learn C#
