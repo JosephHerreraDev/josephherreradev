@@ -13,7 +13,6 @@ Hello, i'm Joseph Herrera let me tell you a bit about myself;
 - Database
 
 ### Knowledge on:
-- C# development
-- WPF interfaces
+- .Net development
 - HTML CSS
 - English & Spanish bilingual
