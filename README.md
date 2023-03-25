@@ -5,6 +5,7 @@ Hello, i'm Joseph Herrera let me tell you a bit about myself;
 #### Technologies
 - SQL database management
 - Git
+- Python
 - Javascript
 
 #### Concepts
