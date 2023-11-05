@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ### Featured Projects
 
-- [Agendapp](https://github.com/JosephHerreraDev/Agendapp) [Link](https://pokedex-joedev.vercel.app/) - A task tracking project built with Node.js that stores tasks in a database.
-- [Pokedex](https://github.com/JosephHerreraDev/Pokedex) - A website created with React powered by the Pokémon API.
+- [Agendapp](https://github.com/JosephHerreraDev/Agendapp) - A task tracking project built with Node.js that stores tasks in a database.
+- [Pokedex](https://github.com/JosephHerreraDev/Pokedex) - A [website](https://pokedex-joedev.vercel.app/) created with React powered by the Pokémon API.
 
 ### My Skills
 
