@@ -27,10 +27,6 @@ You can connect with me on the following platforms:
 
 Feel free to reach out if you want to collaborate on projects or simply have a chat about web development!
 
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephHerreraDev&show_icons=true)
-
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephHerreraDev&layout=compact)
