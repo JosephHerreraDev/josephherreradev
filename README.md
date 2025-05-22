@@ -7,8 +7,6 @@ Welcome to my GitHub! I'm a passionate full-stack developer who loves building w
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephHerreraDev&layout=compact&theme=dark)
 
-Thanks for stopping by, happy coding! 😃
-
 ### Tech Stack
 ![Astro](https://img.shields.io/badge/Astro-%23FE5D00?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,3 +25,5 @@ Thanks for stopping by, happy coding! 😃
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+Thanks for stopping by, happy coding! 😃
